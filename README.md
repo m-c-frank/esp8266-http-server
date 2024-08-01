@@ -11,3 +11,5 @@ run from the platform core cli:
 ```bash
 platformio run --target uploadfs
 ```
+
+https://znil.net/index.php/ESP8266_Wemos_D1_Mini_mit_0,96_Zoll_OLED_128x64_I2C_volle_Aufl%C3%B6sung_nutzen_Beispiel
